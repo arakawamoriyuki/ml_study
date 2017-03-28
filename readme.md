@@ -78,7 +78,7 @@ $ python logistic_regression.py
 $ python logistic_regression_regularized.py
 ```
 
-- ml_bottle
+- anaconda_bottle
 
 画像分類を試すアプリケーション
 
