@@ -78,6 +78,17 @@ $ python logistic_regression.py
 $ python logistic_regression_regularized.py
 ```
 
+- ml_bottle
+
+画像分類を試すアプリケーション
+
+```
+$ docker build --rm -t anaconda-bottle .
+$ docker run -d -p 8080:8080 --name anaconda-bottle anaconda-bottle
+```
+
+[try](http://localhost:8080/inception/test)
+
 ## 回帰サンプル
 
 - workspace/regression
